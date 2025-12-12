@@ -29,7 +29,7 @@ $result = $conn->query($sql);
 
     /* Hero Section */
     .hero-section {
-      background: url('assets/images/event-bg.jpeg') center center/cover no-repeat;
+      background: url('assets/images/bg.jfif') center center/cover no-repeat;
       color: white;
       text-align: center;
       position: relative;
